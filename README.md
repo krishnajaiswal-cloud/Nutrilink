@@ -1,4 +1,6 @@
-# NutriLink demonstration prototype
+# Nutrilink
+
+## Frontend demonstration prototype
 
 NutriLink is a frontend-only nutrition monitoring prototype built with React, Vite, React Router, Tailwind CSS, Chart.js and Lucide icons. It uses fictional records and local browser storage to demonstrate five role views and the child follow-up workflow. It does not include a backend, authentication, government integration or machine-learning model.
 
