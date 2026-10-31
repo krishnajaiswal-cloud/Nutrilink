@@ -20,7 +20,7 @@ npm run preview
 
 ## Deployment
 
-Deploy the Vite project to Vercel or Netlify with `npm run build` as the build command and `dist` as the output directory. Both deployment platforms support SPA rewrites. The included `vercel.json` and `netlify.toml` route non-file paths to `index.html` so React Router child routes work after refresh.
+Deploy the Vite project to Vercel, Netlify, or Render with `npm run build` as the build command and `dist` as the output directory. The included `vercel.json`, `netlify.toml`, and `render.yaml` configure SPA rewrites so React Router child routes work after refresh. On Render, create a Blueprint from this repository and use the included `render.yaml`.
 
 ## Prototype data and health references
 
